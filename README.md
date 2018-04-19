@@ -1,9 +1,15 @@
 # mkZbomb
-mkZbomb is simple python script to generate ZipBomb of desidered dimension.
+mkZbomb is simple python script to generate ZipBomb of desired dimension.
 
 # Getting the code
-    $git clone https://github.com/jacopodl/mkzbomb
-    $cd mkzbomb
+Download from repository:
+
+    $ git clone https://github.com/jacopodl/mkzbomb
+    $ cd mkzbomb
+
+or install from pip:
+    
+    $ pip install mkzbomb
     
 # How to use
                 _     _______                     _
@@ -34,4 +40,4 @@ mkZbomb is simple python script to generate ZipBomb of desidered dimension.
 Building(or storing) ZipBomb on Windows system with Windows Search service enabled can bring system to instability issue.
     
 # License
-A copy of the license is available in file: LICENSE
+See LICENSE
