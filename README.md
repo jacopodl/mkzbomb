@@ -1,5 +1,5 @@
 # mkZbomb
-mkZbomb is simple python script to generate ZipBomb of desired dimension.
+mkZbomb is simple python script that generate ZipBomb of desired dimension.
 
 # Getting the code
 Download from repository:
